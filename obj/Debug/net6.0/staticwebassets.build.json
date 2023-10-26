@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "VigpFk6+O5jXQYVWP9AkyOjK/rz2gYEk9VJwDn3MBqk=",
+  "Source": "Instagram",
+  "BasePath": "_content/Instagram",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Instagram\\wwwroot",
+      "Source": "Instagram",
+      "ContentRoot": "C:\\Users\\Purushotham.M\\.Net_Files\\Dot Net 7.0\\Visual Studio Files\\4_ASP.NET CORE_MVC\\Projects\\Instagram\\wwwroot\\",
+      "BasePath": "_content/Instagram",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
